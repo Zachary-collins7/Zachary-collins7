@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Zachary-collins7
 - I’m interested in Neural networks
-- I’m currently learning at the University of Tulsa
