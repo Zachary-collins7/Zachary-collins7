@@ -5,7 +5,7 @@
 
 <br>
 
-**Top Skills**
+**◊ Top Skills**
 > - Programming Languages: Python | PHP | Swift | JS
 > - Web Frameworks/Platforms : Laravel, .Net
 > - Mobile Frameworks : SwiftUI
@@ -16,7 +16,7 @@
 
 <br>
 
-**Badges**
+**◊ Badges**
  
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
@@ -37,6 +37,8 @@
 <!-- ![a](https://github-readme-stats.vercel.app/api/top-langs/?username={Zachary-collins7}&theme=blue-green) -->
 
 <br>
+
+**◊ Checklist**
 
 - [x] Read the [readme](README.md)
 - [ ] Reviewed my [Resume](resume2022.pdf)
