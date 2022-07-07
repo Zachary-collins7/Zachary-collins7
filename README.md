@@ -1,18 +1,18 @@
 # Welcome 👋 
 ## Hi! I’m Zachary Collins, a Junior Software Developer with Agile Software Development skills
 ### I'm a passionate self-taught developer and I enjoy solving unique and challenging problems. I take great care in the experience, architecture, and code quality of the things I build.
+> #### Check out my [Portfolio](https://zachary-collins7.github.io)
 > ##### Here's my [Resume](resume2022.pdf) and [Linkedin](https://www.linkedin.com/in/zachary-c-57726a192/)
 
 <br>
 
 **◊ Top Skills**
-> - Programming Languages: Python | PHP | Swift | JS
-> - Web Frameworks/Platforms : Laravel, .Net
-> - Mobile Frameworks : SwiftUI
-> - CMS : Wordpress
-> - DB’s : Mysql | MariaDB | Sqlite3
-> - CI/CD tools : Deploybot | Docker | Github Actions
-> - Load testing : K6 
+> - Programming Languages: TS | Python | Swift | PHP
+> - Web Frameworks/Platforms: NextJs, ReactJs, Laravel, .Net
+> - Mobile Frameworks: SwiftUI
+> - DB’s: Mysql | MariaDB | Sqlite3 | Mongo
+> - CI/CD tools: Deploybot | Docker | Github Actions
+> - Load testing: K6 
 
 <br>
 
@@ -41,6 +41,7 @@
 **◊ Checklist**
 
 - [x] Read the [readme](README.md)
+- [ ] Check out my [Portfolio](https://zachary-collins7.github.io)
 - [ ] Reviewed my [Resume](resume2022.pdf)
 - [ ] Check out my [Linkedin](https://www.linkedin.com/in/zachary-c-57726a192/)
 
