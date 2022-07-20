@@ -7,7 +7,7 @@
 <br>
 
 **◊ Top Skills**
-> - Programming Languages: TS | Python | Swift | PHP
+> - Programming Languages: TypeScript | Python | Swift | PHP
 > - Web Frameworks/Platforms: NextJs, ReactJs, Laravel, .Net
 > - Mobile Frameworks: SwiftUI
 > - DB’s: Mysql | MariaDB | Sqlite3 | Mongo
