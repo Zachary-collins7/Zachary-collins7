@@ -2,7 +2,7 @@
 ## Hi! I’m Zachary Collins, a Junior Software Developer with Agile Software Development skills
 ### I'm a passionate self-taught developer and I enjoy solving unique and challenging problems. I take great care in the experience, architecture, and code quality of the things I build.
 > #### Check out my [Portfolio](https://zachary-collins7.github.io)
-> ##### Here's my [Resume](resume2022.pdf) and [Linkedin](https://www.linkedin.com/in/zachary-c-57726a192/)
+> ##### Here's my [Resume](resume2022.pdf) and [Linkedin](https://www.linkedin.com/in/zachary-collins7/)
 
 <br>
 
