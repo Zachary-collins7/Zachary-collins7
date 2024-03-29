@@ -1,7 +1,7 @@
 # Welcome 👋 
 ## Hi! I’m Zachary Collins, a Software Engineer with Agile Software Development skills
 ### I'm a passionate self-taught developer and I enjoy solving unique and challenging problems. I take great care in the experience, architecture, and code quality of the things I build.
-> #### Check out my [Portfolio](https://zachary-collins7.github.io)
+> #### Check out my [Portfolio](https://thezacharycollins.com)
 > ##### Here's my [Resume](Resume2023.pdf) and [Linkedin](https://www.linkedin.com/in/zachary-collins7/)
 
 <br>
@@ -41,7 +41,7 @@
 **◊ Checklist**
 
 - [x] Read the [readme](README.md)
-- [ ] Check out my [Portfolio](https://zachary-collins7.github.io)
+- [ ] Check out my [Portfolio](https://thezacharycollins.com)
 - [ ] Reviewed my [Resume](resume2022.pdf)
 - [ ] Check out my [Linkedin](https://www.linkedin.com/in/zachary-c-57726a192/)
 
