@@ -1,22 +1,20 @@
 # Welcome 👋 
 ## Hi! I’m Zachary Collins, a Software Engineer with Agile Software Development skills
-### I'm a passionate self-taught developer and I enjoy solving unique and challenging problems. I take great care in the experience, architecture, and code quality of the things I build.
+### I enjoy solving unique and challenging problems. I take great care in the experience, architecture, and code quality of the things I build.
 > #### Check out my [Portfolio](https://thezacharycollins.com)
-> ##### Here's my [Resume](Resume2023.pdf) and [Linkedin](https://www.linkedin.com/in/zachary-collins7/)
+> ##### Here's my [Resume](https://thezacharycollins.com/resume) and [Linkedin](https://www.linkedin.com/in/zachary-collins7/)
 
 <br>
 
 **◊ Top Skills**
-> - Programming Languages: TypeScript | Python | Swift | PHP
-> - Web Frameworks/Platforms: NextJs, ReactJs, Laravel, .Net
+> - Programming Languages: Python | TypeScript | Swift | PHP
+> - Web Frameworks/Platforms: NextJs, ReactJs, SwiftUI, Laravel, .Net
 > - Mobile Frameworks: SwiftUI
-> - DB’s: Mysql | MariaDB | Sqlite3 | Mongo
-> - CI/CD tools: Deploybot | Docker | Github Actions
-> - Load testing: K6 
+> - Databases: Mysql | MsSql | MongoDB | MariaDB | Sqlite3
 
 <br>
 
-**◊ Badges**
+**◊ Badges**[^1]
  
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
@@ -32,7 +30,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 <br>
 ![Docker](https://img.shields.io/badge/-Docker-f7f7f7?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-f7f7f7?style=flat&logo=git)[^1]
+![Git](https://img.shields.io/badge/-Git-f7f7f7?style=flat&logo=git)
 
 <!-- ![a](https://github-readme-stats.vercel.app/api/top-langs/?username={Zachary-collins7}&theme=blue-green) -->
 
@@ -42,7 +40,7 @@
 
 - [x] Read the [readme](README.md)
 - [ ] Check out my [Portfolio](https://thezacharycollins.com)
-- [ ] Reviewed my [Resume](resume2022.pdf)
-- [ ] Check out my [Linkedin](https://www.linkedin.com/in/zachary-c-57726a192/)
+- [ ] Reviewed my [Resume](https://thezacharycollins.com/resume)
+- [ ] Check out my [Linkedin](https://www.linkedin.com/in/zachary-collins7)
 
 [^1]: Check out https://github.com/Ileriayo/markdown-badges
